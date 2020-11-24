@@ -1,7 +1,9 @@
 <h1>My name is Gaston Ferreyra. I'm a Fullstack javascript developer</h1>
 
-<img src='https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif' />
+<img src='https://i.pinimg.com/originals/62/38/02/62380218e399ea797327ed33339b14e4.gif' />
 some info about my knowledges 
+
+```js
 export default () => ({
   LinkedIn: "http://blog.ghosh.pro/",
   askMeAbout: [
@@ -19,6 +21,7 @@ export default () => ({
     databases: ["postgresql", "mysql", "sqlite"]
   },
 });
+```
 <!--
 **toninence/toninence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
