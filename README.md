@@ -1,4 +1,4 @@
-<h2>✨ My name is Gaston Ferreyra. I'm a Fullstack javascript developer <img width='80' src='https://i.pinimg.com/originals/62/38/02/62380218e399ea797327ed33339b14e4.gif' /></h2>
+<h2>✨ My name is Gaston Ferreyra. I'm a Fullstack javascript developer </h2>
 
 
 some info about my knowledges 
