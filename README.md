@@ -5,8 +5,7 @@ some info about my knowledges
 export default () => ({
   LinkedIn: "http://blog.ghosh.pro/",
   askMeAbout: [
-    "webdev", "tech", "freelance",
-    "computer cience"
+    "webdev", "tech", "freelance"
   ],
   technologies: {
     frontEnd: {
