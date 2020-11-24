@@ -1,6 +1,6 @@
-<h1>My name is Gaston Ferreyra. I'm a Fullstack javascript developer</h1>
+<h2>✨ My name is Gaston Ferreyra. I'm a Fullstack javascript developer</h2>
 
-<img src='https://i.pinimg.com/originals/62/38/02/62380218e399ea797327ed33339b14e4.gif' />
+<img style='width: 50px;' src='https://i.pinimg.com/originals/62/38/02/62380218e399ea797327ed33339b14e4.gif' />
 some info about my knowledges 
 
 ```js
@@ -22,6 +22,8 @@ export default () => ({
   },
 });
 ```
+
+💬 contact me: toninence@gmail.com
 <!--
 **toninence/toninence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
