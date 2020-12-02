@@ -5,7 +5,7 @@ some info about my knowledges
 
 ```js
 export default () => ({
-  LinkedIn: "http://blog.ghosh.pro/",
+  LinkedIn: "https://www.linkedin.com/in/gaston-ferreyra-b0891562/",
   askMeAbout: [
     "webdev", "tech", "freelance"
   ],
